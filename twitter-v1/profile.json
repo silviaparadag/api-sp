@@ -1,4 +1,5 @@
-{
+[
+  {
   "banner": "//silviaparadag.github.io/api-sp/twitter-v1/images/xures.jpg",
   "logo": "//silviaparadag.github.io/api-sp/twitter-v1/images/sp.png",
   "avatar": "//silviaparadag.github.io/api-sp/twitter-v1/images/user-me.jpg",
@@ -13,3 +14,4 @@
   "following": 2004,
   "description": "👩‍💻 I'm Silvia, architect in a process of change and recycling\n💬 Ask me about design & restaurants & specitalty coffee\n📌 World citizen\n🚀 Open to work"
 }
+]
