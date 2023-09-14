@@ -1,7 +1,5 @@
-# api-sp
+# Own api resources for exercises
 
-# Recursos de apis propias para ejercicios
+This repository is published with GitHub Pages at <https://silviaparadag.github.io/api-sp/>
 
-Este repositorio está publicado con GitHub Pages en https://silviaparadag.github.io/api-sp/
-
-Para uno de estos recursos en tu código usa `https://silviaparadag.github.io/api-sp/FOLDER/FILE-NAME.EXT`
+For one of these resources in your code use `https://silviaparadag.github.io/api-sp/FOLDER/FILE-NAME.EXT`.
