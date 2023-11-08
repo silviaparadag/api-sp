@@ -1,0 +1,59 @@
+{
+    "projects": [
+        {
+            "id": 101, 
+            "img": "./images/001-anonymous-proxy.jpg",
+            "title": "Design web layout", 
+            "desc": "Create a layout project design mainly using  HTML (flexbox, grid), SASS and Gulp",
+            "full-desc": "Create a layout project design mainly using  HTML (flexbox, grid), SASS and Gulp",
+            "tech": ["HTML", "Sass","CSS3", "Gulp"],
+            "type": "Individual",
+            "repo": "https://github.com/silviaparadag/friends-quotes-searcher",
+            "url": "https://silviaparadag.github.io/friends-quotes-searcher/"
+        }, 
+         {
+            "id": 102, 
+            "img": "./images/002-space-developers.png",
+            "title": "Space developers", 
+            "desc": "Team members' presentation page",
+            "full-desc": "Create a page to introduce each team member, using mainly HTML (flexbox, grid), SASS and Gulp",
+            "tech": ["HTML", "CSS3", "Sass", "Gulp"],
+            "type": "Team",
+            "repo": "https://github.com/silviaparadag/project-promo-t-module-1",
+            "url": "http://beta.adalab.es/project-promo-T-module-1-team-3/"
+        }, 
+         {
+            "id": 103, 
+            "img": "./images/friends.png",
+            "title": "Disney characters browser", 
+            "desc": "Filter and select your favourite Disney characters",
+            "full-desc": "Filter and select your favourite Disney characters. Web developed using the Disney Characters' API with JavaScript",
+            "tech": ["JavaScript", "API Rest", "HTML", "Sass"],
+            "type": "Individual",
+            "repo": "https://github.com/silviaparadag/friends-quotes-searcher",
+            "url": "https://silviaparadag.github.io/friends-quotes-searcher/"
+        }, 
+         {
+            "id": 104, 
+            "img": "./images/friends.png",
+            "title": "Friends quotes searcher", 
+            "desc": "Search and add (local) your favourite Friends quotes",
+            "tech": ["React", "API Rest"],
+            "type": "Team",
+            "repo": "https://github.com/silviaparadag/friends-quotes-searcher",
+            "url": "https://silviaparadag.github.io/friends-quotes-searcher/"
+        }, 
+         {
+            "id": 105, 
+            "img": "./images/friends.png",
+            "title": "Friends quotes searcher", 
+            "desc": "Search and add (local) your favourite Friends quotes",
+            "tech": ["React", "API Rest"],
+            "type": "Team",
+            "repo": "https://github.com/silviaparadag/friends-quotes-searcher",
+            "url": "https://silviaparadag.github.io/friends-quotes-searcher/"
+        }
+    ]
+}
+
+
