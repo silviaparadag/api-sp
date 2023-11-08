@@ -30,8 +30,8 @@
             "full-desc": "Filter and select your favourite Disney characters. Web developed using the Disney Characters' API with JavaScript",
             "tech": ["JavaScript", "API Rest", "HTML", "Sass"],
             "type": "Individual",
-            "repo": "https://github.com/silviaparadag/friends-quotes-searcher",
-            "url": "https://silviaparadag.github.io/friends-quotes-searcher/"
+            "repo": "https://github.com/silviaparadag/disney-characters-browser/",
+            "url": "https://silviaparadag.github.io/disney-characters-browser"
         }, 
          {
             "id": 104, 
