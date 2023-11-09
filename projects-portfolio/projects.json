@@ -2,6 +2,7 @@
     "projects": [
         {
             "id": 101, 
+            "score": 0,
             "img": "./images/001-anonymous-proxy.jpg",
             "title": "Design web layout", 
             "desc": "Create a layout project design mainly using  HTML (flexbox, grid), SASS and Gulp",
@@ -13,6 +14,7 @@
         }, 
          {
             "id": 102, 
+            "score": 0,
             "img": "./images/002-space-developers.png",
             "title": "Space developers", 
             "desc": "Team members' presentation page",
@@ -24,6 +26,7 @@
         }, 
          {
             "id": 103, 
+            "score": 0,
             "img": "./images/003-disney-characters.png",
             "title": "Disney characters browser", 
             "desc": "Filter and select your favourite Disney characters",
@@ -35,6 +38,7 @@
         }, 
          {
             "id": 104, 
+            "score": 0,
             "img": "./images/004-ats.png",
             "title": "Adalab Tech Summit", 
             "desc": "Self-personalized access ID card for the summit",
@@ -46,6 +50,7 @@
         }, 
          {
             "id": 105, 
+            "score": 1,
            "img": "./images/005-friends.png",
             "title": "Friends quotes searcher", 
             "desc": "Search and add (local) your favourite Friends quotes",
@@ -57,6 +62,7 @@
         }, 
         {
             "id": 106, 
+            "score": 0,
            "img": "./images/006-rick-and-morty.png",
             "title": "Web browser with Rick & Morty characters", 
             "desc": "Search and add (local) your favourite Friends quotes",
@@ -68,6 +74,7 @@
         }, 
         {
             "id": 107, 
+            "score": 1,
            "img": "./images/007-programadoras-junior.png",
             "title": "An Adalabers portfolio platform", 
             "desc": "Web application to discovering & uploading new projects",
@@ -79,6 +86,7 @@
         }, 
         {
             "id": 108, 
+            "score": 1,
            "img": "./images/008-personal-project.png",
             "title": "City Guide, Travel Book and Fashion Eye", 
             "desc": "Web application to discovering & uploading new projects",
@@ -90,6 +98,7 @@
         }, 
         {
             "id": 109, 
+            "score": 0,
            "img": "./images/009-x.png",
             "title": "Some functionalities of the X (former Twitter) front-end", 
             "desc": "Web application to discovering & uploading new projects",
@@ -101,6 +110,7 @@
         }, 
          {
             "id": 110, 
+            "score": 0,
            "img": "./images/010-t-shirt-shop.png",
             "title": "Adalab T-shirt Shop", 
             "desc": "T-shirt web application with a shopping cart.",
