@@ -3,7 +3,7 @@
         {
             "id": 101, 
             "score": 0,
-            "img": "./images/001-anonymous-proxy.jpg",
+            "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/001-anonymous-proxy.jpg",
             "title": "Design web layout", 
             "desc": "Create a layout project design mainly using  HTML (flexbox, grid), SASS and Gulp",
             "full-desc": "Create a layout project design mainly using  HTML (flexbox, grid), SASS and Gulp",
@@ -15,7 +15,7 @@
          {
             "id": 102, 
             "score": 0,
-            "img": "./images/002-space-developers.png",
+            "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/002-space-developers.png",
             "title": "Space developers", 
             "desc": "Team members' presentation page",
             "full-desc": "Create a page to introduce each team member, using mainly HTML (flexbox, grid), SASS and Gulp",
@@ -27,7 +27,7 @@
          {
             "id": 103, 
             "score": 0,
-            "img": "./images/003-disney-characters.png",
+            "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/003-disney-characters.png",
             "title": "Disney characters browser", 
             "desc": "Filter and select your favourite Disney characters",
             "full-desc": "Filter and select your favourite Disney characters. Web developed using the Disney Characters' API with JavaScript",
@@ -39,7 +39,7 @@
          {
             "id": 104, 
             "score": 0,
-            "img": "./images/004-ats.png",
+            "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/004-ats.png",
             "title": "Adalab Tech Summit", 
             "desc": "Self-personalized access ID card for the summit",
             "full-desc": "Web to create self-personalized access card, with different colour palettes to choose frome, which can be shared digitally in social media or mail,",
@@ -51,7 +51,7 @@
          {
             "id": 105, 
             "score": 1,
-           "img": "./images/005-friends.png",
+           "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/005-friends.png",
             "title": "Friends quotes searcher", 
             "desc": "Search and add (local) your favourite Friends quotes",
             "full-desc": "Filter and select your favourite Disney characters. Web developed using the Disney Characters' API with JavaScript",
@@ -63,7 +63,7 @@
         {
             "id": 106, 
             "score": 0,
-           "img": "./images/006-rick-and-morty.png",
+           "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/006-rick-and-morty.png",
             "title": "Web browser with Rick & Morty characters", 
             "desc": "Search and add (local) your favourite Friends quotes",
             "full-desc": "Search for your favourite Rick and Morty characters, as well as filter by characteristics such as origin. You can also find a detailed page for each character. ",
@@ -75,7 +75,7 @@
         {
             "id": 107, 
             "score": 1,
-           "img": "./images/007-programadoras-junior.png",
+           "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/007-programadoras-junior.png",
             "title": "An Adalabers portfolio platform", 
             "desc": "Web application to discovering & uploading new projects",
             "full-desc": "Discover the latest projects of the 'Junior Programmers' community in this application, and you can also participate by uploading your projects.",
@@ -87,7 +87,7 @@
         {
             "id": 108, 
             "score": 1,
-           "img": "./images/008-personal-project.png",
+           "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/008-personal-project.png",
             "title": "City Guide, Travel Book and Fashion Eye", 
             "desc": "Web application to discovering & uploading new projects",
             "full-desc": "An online platform created to help travellers discover the best of different cities around the world through my own personal experiences.",
@@ -99,7 +99,7 @@
         {
             "id": 109, 
             "score": 0,
-           "img": "./images/009-x.png",
+           "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/009-x.png",
             "title": "Some functionalities of the X (former Twitter) front-end", 
             "desc": "Web application to discovering & uploading new projects",
             "full-desc": "Some of X's functionalities replicated, as compose a new post with modal window, render post list from API and save in Local Storage, including routes to profile, compose and searcher",
@@ -111,7 +111,7 @@
          {
             "id": 110, 
             "score": 0,
-           "img": "./images/010-t-shirt-shop.png",
+           "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/010-t-shirt-shop.png",
             "title": "Adalab T-shirt Shop", 
             "desc": "T-shirt web application with a shopping cart.",
             "full-desc": "Web application with T-shirts to buy, and a shopping cart where you can add and remove items",
