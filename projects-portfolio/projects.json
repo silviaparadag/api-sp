@@ -31,7 +31,7 @@
             "score": 0,
             "avatar": "//silviaparadag.github.io/api-sp/projects-portfolio/avatars/",
             "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/003-disney-characters.png",
-            "title": "Disney characters browser", 
+            "title": "Disney characters finder", 
             "desc": "Filter and select your favourite Disney characters",
             "full-desc": "Filter and select your favourite Disney characters. Web developed using the Disney Characters' API with JavaScript",
             "tech": ["JavaScript", "API Rest", "HTML", "Sass"],
@@ -96,21 +96,21 @@
             "score": 1,
             "avatar": "//silviaparadag.github.io/api-sp/projects-portfolio/avatars/008-personal-project-tcc.png",
            "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/008-personal-project-tcc.png",
-            "title": "City Guide, Travel Book and Fashion Eye", 
+            "title": "Travel Guide Collection", 
             "desc": "Web application to discovering & uploading new projects",
-            "full-desc": "An online platform created to help travellers discover the best of different cities around the world through my own personal experiences.",
+            "full-desc": "City Guide, Travel Book and Fashion Eye: an online platform created to help travellers discover the best of different cities around the world through my own personal experiences.",
             "tech": ["Status: in progress", "React JS", "NodeJS", "ExpressJS", "MySQL", "API Rest", "HTML", "Sass"],
             "type": "Individual",
-            "repo": "https://github.com/silviaparadag/digital-portfolio-team-project-adalab",
-            "url": "https://silviaparadag.github.io/digital-portfolio-team-project-adalab/"
+            "repo": "https://github.com/silviaparadag/travel-guide-collection",
+            "url": "https://github.com/silviaparadag/travel-guide-collection"
         }, 
         {
             "id": 109, 
             "score": 0,
             "avatar": "//silviaparadag.github.io/api-sp/projects-portfolio/avatars/",
            "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/009-x.png",
-            "title": "Some functionalities of the X (former Twitter) front-end", 
-            "desc": "Web application to discovering & uploading new projects",
+            "title": "X functionalities", 
+            "desc": "Some functionalities of the X, former Twitter, front-end",
             "full-desc": "Some of X's functionalities replicated, as compose a new post with modal window, render post list from API and save in Local Storage, including routes to profile, compose and searcher",
             "tech": ["React JS", "API Rest", "HTML", "Sass"],
             "type": "Individual",
@@ -128,7 +128,7 @@
             "tech": ["JavaScript", "HTML", "Sass"],
             "type": "Individual",
             "repo": "https://github.com/silviaparadag/adalab-t-shirt-shop#adalab-t-shirt-shop",
-            "url": ""
+            "url": "https://github.com/silviaparadag/adalab-t-shirt-shop#adalab-t-shirt-shop"
         }
     ]
 }
