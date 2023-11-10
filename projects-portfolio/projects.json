@@ -7,7 +7,7 @@
             "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/001-anonymous-proxy.jpg",
             "title": "Anonymous proxy", 
             "desc": "Create a design web layout mainly using  HTML (flexbox, grid), SASS and Gulp",
-            "full-desc": "Responsive page with a layout design including animations and transitions , made mainly using  HTML (flexbox, grid), SASS and Gulp",
+            "full-desc": "Responsive page with a layout design including animations and transition, made mainly using  HTML (flexbox, grid), SASS and Gulp",
             "tech": ["HTML", "Sass","CSS3", "Gulp"],
             "type": "Individual",
             "repo": "https://github.com/silviaparadag/web-design-html-scss",
@@ -132,5 +132,3 @@
         }
     ]
 }
-
-
