@@ -55,7 +55,7 @@
          {
             "id": 105, 
             "score": 1,
-            "avatar": "//silviaparadag.github.io/api-sp/projects-portfolio/avatars/005-friends.png",
+            "avatar": "005-friends.png",
            "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/005-friends.png",
             "title": "Friends quotes searcher", 
             "desc": "Search and add (local) your favourite Friends quotes",
@@ -81,7 +81,7 @@
         {
             "id": 107, 
             "score": 1,
-            "avatar": "//silviaparadag.github.io/api-sp/projects-portfolio/avatars/007-programadoras-junior.png",
+            "avatar": "007-programadoras-junior.png",
            "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/007-programadoras-junior.png",
             "title": "Adalabers portfolio platform", 
             "desc": "Web application to discovering & uploading new projects",
