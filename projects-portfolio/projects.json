@@ -111,7 +111,7 @@
            "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/009-x.png",
             "title": "X functionalities", 
             "desc": "Some functionalities of the X, former Twitter, front-end",
-            "full-desc": "Some of X's functionalities replicated, as compose a new post with modal window, render post list from API and save in Local Storage, including routes to profile, compose and searcher",
+            "full-desc": "Some of X's functionalities replicated, as compose new post with modal window, render post list from API and save in Local Storage, including routes to profile, compose and searcher",
             "tech": ["React JS", "API Rest", "HTML", "Sass"],
             "type": "Individual",
             "repo": "https://github.com/silviaparadag/x-twitter",
