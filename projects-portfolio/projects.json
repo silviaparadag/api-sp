@@ -9,7 +9,7 @@
             "desc": "Create a design web layout mainly using  HTML (flexbox, grid), SASS and Gulp",
             "full-desc": "Responsive page with a layout design including animations and transition, made mainly using  HTML (flexbox, grid), SASS and Gulp",
             "tech": ["HTML", "Sass","CSS3", "Gulp"],
-            "type": "Individual",
+            "type": "Individual project",
             "repo": "https://github.com/silviaparadag/web-design-html-scss",
             "url": "https://silviaparadag.github.io/web-design-html-scss/"
         }, 
@@ -22,7 +22,7 @@
             "desc": "Team members' presentation page",
             "full-desc": "Create a responsive web page to introduce each team member, using mainly HTML (flexbox, grid), SASS and Gulp",
             "tech": ["HTML", "CSS3", "Sass", "Gulp"],
-            "type": "Team",
+            "type": "Team project",
             "repo": "https://github.com/silviaparadag/space-developers-presentation",
             "url": "https://silviaparadag.github.io/space-developers-presentation/"
         }, 
@@ -35,7 +35,7 @@
             "desc": "Filter and select your favourite Disney characters",
             "full-desc": "Filter and select your favourite Disney characters. Web developed using the Disney Characters' API with JavaScript",
             "tech": ["JavaScript", "API Rest", "HTML", "Sass"],
-            "type": "Individual",
+            "type": "Individual project",
             "repo": "https://github.com/silviaparadag/disney-characters-browser/",
             "url": "https://silviaparadag.github.io/disney-characters-browser"
         }, 
@@ -48,7 +48,7 @@
             "desc": "Self-personalized access ID card for the summit",
             "full-desc": "Web to create self-personalized access card, with different colour palettes to choose frome, which can be shared digitally in social media or mail",
             "tech": ["JavaScript", "HTML", "Sass"],
-            "type": "Team",
+            "type": "Team project",
             "repo": "https://github.com/silviaparadag/digital-card-maker-team-project-adalab",
             "url": "http://beta.adalab.es/project-promo-T-module-2-team-4/"
         }, 
@@ -61,7 +61,7 @@
             "desc": "Search and add (local) your favourite Friends quotes",
             "full-desc": "Filter and select your favourite Disney characters. Web developed using the Disney Characters' API with JavaScript",
             "tech": ["React JS", "API Rest", "HTML", "Sass"],
-            "type": "Individual",
+            "type": "Individual project",
             "repo": "https://github.com/silviaparadag/friends-quotes-searcher",
             "url": "https://silviaparadag.github.io/friends-quotes-searcher/"
         }, 
@@ -71,10 +71,10 @@
             "avatar": "//silviaparadag.github.io/api-sp/projects-portfolio/avatars/",
            "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/006-rick-and-morty.png",
             "title": "Rick & Morty characters finder", 
-            "desc": "Find and discover detail info about Rick & Morty characters",
+            "desc": "Search and add (local) your favourite Friends quotes",
             "full-desc": "Search for your favourite Rick and Morty characters, as well as filter by characteristics such as origin. You can also find a detailed page for each character",
             "tech": ["React JS", "API Rest", "HTML", "Sass"],
-            "type": "Individual",
+            "type": "Individual project",
             "repo": "https://github.com/silviaparadag/friends-quotes-searcher",
             "url": "https://silviaparadag.github.io/friends-quotes-searcher/"
         }, 
@@ -87,7 +87,7 @@
             "desc": "Web application to discovering & uploading new projects",
             "full-desc": "Discover the latest projects of the 'Junior Programmers' community in this application, and you can also participate by uploading your projects",
             "tech": ["React JS", "API Rest", "HTML", "Sass"],
-            "type": "Individual",
+            "type": "Individual project",
             "repo": "https://github.com/silviaparadag/digital-portfolio-team-project-adalab",
             "url": "https://silviaparadag.github.io/digital-portfolio-team-project-adalab/"
         }, 
@@ -100,7 +100,7 @@
             "desc": "Web application to discovering & uploading new projects",
             "full-desc": "A different city guide: an online platform created to help travellers discover the best of different cities around the world through my own personal experiences.City Guide, Travel Book and Fashion Eye",
             "tech": ["Status: in progress", "React JS", "NodeJS", "ExpressJS", "MySQL", "API Rest", "HTML", "Sass"],
-            "type": "Individual",
+            "type": "Individual project",
             "repo": "https://github.com/silviaparadag/travel-guide-collection",
             "url": "https://github.com/silviaparadag/travel-guide-collection"
         }, 
@@ -113,7 +113,7 @@
             "desc": "Some functionalities of the X, former Twitter, front-end",
             "full-desc": "Some of X's functionalities replicated, as compose new post with modal window, render post list from API and save in Local Storage, including routes to profile, compose and searcher",
             "tech": ["React JS", "API Rest", "HTML", "Sass"],
-            "type": "Individual",
+            "type": "Individual project",
             "repo": "https://github.com/silviaparadag/x-twitter",
             "url": "https://silviaparadag.github.io/x-twitter/"
         }, 
@@ -126,11 +126,9 @@
             "desc": "T-shirt web application with a shopping cart.",
             "full-desc": "Web application with T-shirts to buy, and a shopping cart where you can add and remove items",
             "tech": ["JavaScript", "HTML", "Sass"],
-            "type": "Individual",
+            "type": "Individual project",
             "repo": "https://github.com/silviaparadag/adalab-t-shirt-shop#adalab-t-shirt-shop",
             "url": "https://github.com/silviaparadag/adalab-t-shirt-shop#adalab-t-shirt-shop"
         }
     ]
 }
-
-

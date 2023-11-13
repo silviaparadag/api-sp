@@ -1,4 +1,4 @@
-# Own api resources for exercises
+# Own api resources for projects
 
 This repository is published with GitHub Pages at <https://silviaparadag.github.io/api-sp/>
 
