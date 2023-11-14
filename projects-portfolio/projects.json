@@ -46,7 +46,7 @@
             "img": "//silviaparadag.github.io/api-sp/projects-portfolio/images/004-ats.png",
             "title": "Adalab Tech Summit", 
             "desc": "Self-personalized access ID card for the summit",
-            "full-desc": "Web to create self-personalized access card, with different colour palettes to choose frome, which can be shared digitally in social media or mail,",
+            "full-desc": "Web to create self-personalized access card, with different colour palettes to choose frome, which can be shared digitally in social media or mail",
             "tech": ["JavaScript", "HTML", "Sass"],
             "type": "Team project",
             "repo": "https://github.com/silviaparadag/digital-card-maker-team-project-adalab",
