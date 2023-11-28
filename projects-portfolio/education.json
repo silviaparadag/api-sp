@@ -1,32 +1,37 @@
 [
   {
-    "title": "Architect",
-    "desc": "Architect",
+    "name": "Architect",
+    "institution": "University of A Coruña",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
+    "logo": "", 
     "year": 2008
   },
   {
-    "title": "Master Architectural Restoration",
-    "desc": "Architect",
+    "name": "Master in Restoration",
+    "institution": "University of A Coruña",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
+    "logo": "", 
     "year": 2010
   },
   {
-    "title": "Freelance",
-    "desc": "Architect",
+    "name": "Web Developer",
+    "institution": "Adalab",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
-    "year": 2009
+    "logo": "", 
+    "year": 2023
   },
   {
-    "title": "Kennedy FitzGeral & Assoc.",
-    "desc": "Architect",
+    "name": "Scrum Master & Product Owner",
+    "institution": "Scrum Manager (PUE)",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
-    "year": 2009
+    "logo": "", 
+    "year": 2023
   },
   {
-    "title": "Architect",
-    "desc": "Architect",
+    "name": "Product Manager",
+    "institution": "Thiga",
+    "logo": "", 
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
-    "year": 2008
+    "year": 2024
   }
 ]
