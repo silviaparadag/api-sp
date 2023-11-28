@@ -1,5 +1,6 @@
 [
   {
+    "id": 201, 
     "company": "Correos SA",
     "job":"Architect",
     "desc": "Summer jobs. Customer service and delivery tasks. Summers from 2001 to 2007, April-July 2012",
@@ -8,6 +9,7 @@
     "year": 2001
   },
   {
+    "id": 202, 
     "company": "University of A Coruña",
     "job":"Architect",
     "desc": "Scholarships: Collaboration with the Chair of History of Architecture in research tasks & Management and assessment of model-making workshop.",
@@ -16,6 +18,7 @@
     "year": 2007
   },
   {
+    "id": 203, 
     "company": "Freelance",
     "job":"Architect",
     "desc": "2008-2012Architect",
@@ -24,6 +27,7 @@
     "year": 2008
   },
   {
+    "id": 204, 
     "company": "Kennedy Fitzgerald & Assoc Architects",
     "job":"Architect",
     "desc": "Architect",
@@ -32,6 +36,7 @@
     "year": 2009
   },
   {
+    "id": 205, 
     "company": "Antonio Pernas Arquitectura",
     "job":"Architect",
     "desc": "Architect",
@@ -40,6 +45,7 @@
     "year": 2009
   },
   {
+    "id": 206, 
     "company": "Xunta de Galicia",
     "job":"Project Director",
     "desc": "Architect",
@@ -48,6 +54,7 @@
     "year": 2009
   },
   {
+    "id": 207, 
     "company": "RTA Group",
     "job":"Architect & Team Leader",
     "desc": "Architect",
@@ -56,6 +63,7 @@
     "year": 2012
   },
   {
+    "id": 208, 
     "company": "Azotea Grupo",
     "job":"Deputy to the CEO",
     "desc": "Architect",
@@ -64,6 +72,7 @@
     "year": 2016
   },
    {
+    "id": 209, 
     "company": "A vida Group & La nena Home",
     "job":"Brand Architect",
     "desc": "Architect",
