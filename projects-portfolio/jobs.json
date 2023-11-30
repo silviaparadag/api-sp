@@ -24,7 +24,7 @@
     }, 
     {
       "name":"Casa Cubeiro | Antonio Pernas Estudio",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpeg" 
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpg" 
     }
     ],
     "logo": "", 
@@ -42,7 +42,11 @@
     }, 
     {
       "name":"Casa Cubeiro | Antonio Pernas Estudio",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpeg" 
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpg" 
+    },
+     {
+      "name":"Casa Cubeiro | Antonio Pernas Estudio",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-pl.jpeg" 
     }
     ],
     "logo": "", 
@@ -86,7 +90,7 @@
     }, 
     {
       "name":"Casa Cubeiro | Antonio Pernas Estudio",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpeg" 
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpg" 
     }
     ],
     "logo": "", 
@@ -127,7 +131,15 @@
     "pictures": [{
       "name":"Azotea del Círculo | Azotea Grupo",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
-    }],
+    }, 
+  {
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/av-lg.png" 
+    }, {
+      "name":"XXXXXX",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-mad.jpeg" 
+    }
+  ],
     "logo": "", 
     "year": 2022
   }
