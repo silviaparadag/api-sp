@@ -5,6 +5,10 @@
     "job":"Architect",
     "desc": "Summer jobs. Customer service and delivery tasks. Summers from 2001 to 2007, April-July 2012",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }],
     "logo": "", 
     "year": 2001
   },
@@ -14,6 +18,15 @@
     "job":"Architect",
     "desc": "Scholarships: Collaboration with the Chair of History of Architecture in research tasks & Management and assessment of model-making workshop.",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }, 
+    {
+      "name":"Casa Cubeiro | Antonio Pernas Estudio",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpeg" 
+    }
+    ],
     "logo": "", 
     "year": 2007
   },
@@ -23,6 +36,15 @@
     "job":"Architect",
     "desc": "2008-2012Architect",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }, 
+    {
+      "name":"Casa Cubeiro | Antonio Pernas Estudio",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpeg" 
+    }
+    ],
     "logo": "", 
     "year": 2008
   },
@@ -32,6 +54,10 @@
     "job":"Architect",
     "desc": "Architect",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }],
     "logo": "", 
     "year": 2009
   },
@@ -41,6 +67,10 @@
     "job":"Architect",
     "desc": "Architect",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }],
     "logo": "", 
     "year": 2009
   },
@@ -49,8 +79,17 @@
     "company": "Xunta de Galicia",
     "job":"Project Director",
     "desc": "Architect",
-    "logo": "", 
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }, 
+    {
+      "name":"Casa Cubeiro | Antonio Pernas Estudio",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpeg" 
+    }
+    ],
+    "logo": "", 
     "year": 2009
   },
   {
@@ -58,8 +97,12 @@
     "company": "RTA Group",
     "job":"Architect & Team Leader",
     "desc": "Architect",
-    "logo": "", 
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }],
+    "logo": "", 
     "year": 2012
   },
   {
@@ -67,8 +110,12 @@
     "company": "Azotea Grupo",
     "job":"Deputy to the CEO",
     "desc": "Architect",
-    "logo": "", 
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }],
+    "logo": "", 
     "year": 2016
   },
    {
@@ -76,8 +123,12 @@
     "company": "A vida Group & La nena Home",
     "job":"Brand Architect",
     "desc": "Architect",
-    "logo": "", 
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }],
+    "logo": "", 
     "year": 2022
   }
 ]
