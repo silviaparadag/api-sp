@@ -4,7 +4,7 @@
     "company": "Correos SA",
     "job":"Architect",
     "desc": "Summer jobs. Customer service and delivery tasks. Summers from 2001 to 2007, April-July 2012",
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
     "logo": "", 
     "year": 2001
   },
@@ -13,7 +13,7 @@
     "company": "University of A Coruña",
     "job":"Architect",
     "desc": "Scholarships: Collaboration with the Chair of History of Architecture in research tasks & Management and assessment of model-making workshop.",
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
     "logo": "", 
     "year": 2007
   },
@@ -22,7 +22,7 @@
     "company": "Freelance",
     "job":"Architect",
     "desc": "2008-2012Architect",
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
     "logo": "", 
     "year": 2008
   },
@@ -31,7 +31,7 @@
     "company": "Kennedy Fitzgerald & Assoc",
     "job":"Architect",
     "desc": "Architect",
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
     "logo": "", 
     "year": 2009
   },
@@ -40,7 +40,7 @@
     "company": "Antonio Pernas Arquitectura",
     "job":"Architect",
     "desc": "Architect",
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
     "logo": "", 
     "year": 2009
   },
@@ -50,7 +50,7 @@
     "job":"Project Director",
     "desc": "Architect",
     "logo": "", 
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
     "year": 2009
   },
   {
@@ -59,7 +59,7 @@
     "job":"Architect & Team Leader",
     "desc": "Architect",
     "logo": "", 
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
     "year": 2012
   },
   {
@@ -68,7 +68,7 @@
     "job":"Deputy to the CEO",
     "desc": "Architect",
     "logo": "", 
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
     "year": 2016
   },
    {
@@ -77,7 +77,7 @@
     "job":"Brand Architect",
     "desc": "Architect",
     "logo": "", 
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
     "year": 2022
   }
 ]
