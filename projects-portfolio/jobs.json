@@ -61,7 +61,7 @@
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
     "pictures": [{
       "name":"Santa Cecilias's College | KFANI, Derry (Northern Ireland, UK)",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/kfani-sc.png" 
     }],
     "logo": "", 
     "year": 2009
@@ -126,15 +126,38 @@
     }, 
     {
       "name":"El Cuartel del Mar | Azotea Grupo, Chiclana de la Fra. (Cádiz)",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpg" 
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-cm.jpeg" 
+    }, 
+     {
+      "name":"El Cuartel del Mar | Azotea Grupo, Chiclana de la Fra. (Cádiz)",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-cm2.jpeg" 
     }, 
     {
       "name":"Justa Rufina | Azotea Grupo, Sevilla",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-jr.jpeg" 
+    }, {
+      "name":"Justa Rufina | Azotea Grupo, Sevilla",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-jr2.jpeg" 
+    },
+     {
+      "name":"Sal Verde Arena Bar| Azotea Grupo, Alcaidesa (Cádiz)",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-svab.jpeg" 
     },
     {
       "name":"Picalagartos Sky Bar | Azotea Grupo, Madrid",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-pl.jpeg" 
+    }, 
+    {
+      "name":"NuBel | Azotea Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-nb.jpeg" 
+    },
+    {
+      "name":"Arco 2020 | Azotea Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-arco-20.jpeg" 
+    },
+    {
+      "name":"Arco 2019 | Azotea Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-arco-19.jpeg" 
     }
     ],
     "logo": "", 
@@ -154,15 +177,15 @@
       "name":"La nena Home, Fuori Salone 2022| A vida Group, Milán",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-fs-22.jpeg" 
     }, {
-      "name":"La nena Home | A vida Group Madrid",
+      "name":"La nena Home | A vida Group, Madrid",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-mad.jpeg" 
     }, 
     {
-      "name":"Can Chan Chán Restaurant | A vida Group Madrid",
+      "name":"Can Chan Chán Restaurant | A vida Group, Madrid",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/av-ccc.jpeg" 
     },
      {
-      "name":"Can Chan Chán Restaurant | A vida Group Madrid",
+      "name":"Can Chan Chán Restaurant | A vida Group, Madrid",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/av-ccc2.jpg" 
     }
   ],
