@@ -2,7 +2,7 @@
   {
     "id": 201, 
     "company": "Correos SA",
-    "job":"Summer job",
+    "job":"Summer jobs",
     "desc": "Temporary jobs. Customer service and delivery work, during the summers of 2001 to 2007 and 2012 (April to June)",
     "cover": "",
     "pictures": [{
@@ -15,11 +15,11 @@
     "id": 202, 
     "company": "University of A Coruña",
     "job":"Intern",
-    "desc": "Scholarships: \n-Collaboration with the Chair of History of Architecture in research tasks & \n-Management and assessment of model-making workshop.",
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
+    "desc": "Scholarships: \n- 2007-2008: Collaboration with the Chair of History of Architecture in research and digitalitation tasks\n- 2007: Management and assessment of model-making workshop.",
+    "cover": "",
     "pictures": [{
-      "name":"Azotea del Círculo | Azotea Grupo",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+      "name":"",
+      "img":"" 
     }],"logo": "", 
     "year": 2007
   },
@@ -27,19 +27,27 @@
     "id": 203, 
     "company": "Freelance",
     "job":"Architect",
-    "desc": "2008-2012Architect",
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
+    "desc": "2008-2012: \n- Single-family housing projects, refurbishments projects and technical reports. \n- Participation in architectural competitions:\n'Auditorio Centro das Artes de Verín' Ourense (2010) \nSubsidized housing in Villaverde District, Madrid. EMVS (2009) \nNew Courthouse Building in Ourense (2009) \nII Competition of university initiatives 'Por unha mobilidade segura' (2008). 3rd prize.",
+    "cover": "",
     "pictures": [{
-      "name":"Azotea del Círculo | Azotea Grupo",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+      "name":"Casa das Artes | Verín",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/fr-av.jpeg" 
     }, 
     {
-      "name":"Casa Cubeiro | Antonio Pernas Estudio",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpg" 
+      "name":"Subsidized housing building in Villaverde District | Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/fr-vv.png" 
+    },
+    {
+      "name":"Subsidized housing building in Villaverde District | Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/fr-vv2.png" 
     },
      {
-      "name":"Casa Cubeiro | Antonio Pernas Estudio",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-pl.jpeg" 
+      "name":"New Courthouse Building | Ourense",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/fr-nx.png" 
+    },
+    {
+      "name":"New Courthouse Building | Ourense",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/fr-nx2.png" 
     }
     ],
     "logo": "", 
