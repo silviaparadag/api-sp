@@ -57,10 +57,10 @@
     "id": 204, 
     "company": "Kennedy Fitzgerald & Assoc",
     "job":"Architect",
-    "desc": "Architect",
+    "desc": "Basic design projects for single-family homes and an execution project for a school building",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
     "pictures": [{
-      "name":"Azotea del Círculo | Azotea Grupo",
+      "name":"Santa Cecilias's College | KFANI, Derry (Northern Ireland, UK)",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
     }],
     "logo": "", 
@@ -68,13 +68,17 @@
   },
   {
     "id": 205, 
-    "company": "Antonio Pernas Arquitectura",
+    "company": "Pernas Varela Arquitectos",
     "job":"Architect",
-    "desc": "Architect",
+    "desc": "Refurbishment projects, interior design and basic projects. \nJuana de Vega Architecture Award 2011: 'Bergondo single-family house'",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
     "pictures": [{
-      "name":"Azotea del Círculo | Azotea Grupo",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+      "name":"Bergondo single-family house | Pernas Varela Arquitectos, Bergondo (A Coruña)",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpg" 
+    },
+    {
+      "name":"Los Rosales Church Urban Development | Pernas Varela Arquitectos, A Coruña",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-ir.png" 
     }],
     "logo": "", 
     "year": 2009
@@ -83,15 +87,11 @@
     "id": 206, 
     "company": "Xunta de Galicia",
     "job":"Project Director",
-    "desc": "Architect",
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
+    "desc": "- Restoration of a rural tourism house and improvement of natural areas (leisure areas, riverbanks). \n- Management and coordination of Masonry, Stonework and Degraded areas workshops. \n- Managed a team of 30 unemployed people at risk of social exclusion",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/xg-ob.jpg",
     "pictures": [{
-      "name":"",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
-    }, 
-    {
-      "name":"",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpg" 
+      "name":"Rehabilitation of a rural tourism house | Concello de Bande, Bande (Ourense)",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/xg-ob.jpg" 
     }
     ],
     "logo": "", 
@@ -99,17 +99,17 @@
   },
   {
     "id": 207, 
-    "company": "RTA Group",
+    "company": "RTA Grupo",
     "job":"Architect & Team Leader",
-    "desc": "Architect",
+    "desc": "Integral projects of interior refurbishment in high standing housing and retail. \nProposals, execution projects, feasibility studies and collaborated with outsourced designers. CCE up to €0.7m.\nProject management: budgets and measurements, with comparisons and supplier budgets. \nStrong focus on the relationship with the different stakeholders: clients, technical & design teams, construction workers, and suppliers. \nReports, due diligences, and technical evaluations for Studies and After-Sales departments.",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
     "pictures": [{
-      "name":"Azotea del Círculo | Azotea Grupo",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+      "name":"Apartment V86| RTA Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg" 
     },
     {
-      "name":"Azotea del Círculo | Azotea Grupo",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+      "name":"'El Huerto de Lucas' organic market | RTA Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg" 
     }],
     "logo": "", 
     "year": 2012
@@ -118,22 +118,22 @@
     "id": 208, 
     "company": "Azotea Grupo",
     "job":"Deputy to the CEO",
-    "desc": "Architect",
+    "desc": "BUSINESS DEVELOPMENT & EXPANSION \nDeveloped new business opportunities: new projects and expansion. Analysis and feasibility studies for future openings, preparing financial projections and business plans. Active participation in the group's strategic decision-making. \nLeading the professionalization and implementation of digital & tech systems: Gstock, Cover Manager, Agora, etc. and cloud storage. \nCoordination internal departments, working closely with Marketing, HR, Administration, CS. \nActively participate in stakeholder relations and communication: NH, Millenium, Sonder, etc. \nARCHITECTURE & ASSET MANAGEMENT \nProject Manager. Project development and construction process control: budget control, relationship with suppliers and clients and project execution. \nInterior Design. Spaces harmonization: furniture solutions, decoration and planting, as well as design of construction details. \nAsset & Facility management. Technical advice for assets. Creation of a roadmap for the comprehensive preventive and corrective maintenance of buildings and their installations. \nDevelopment of the corporate image of the group and its sub-brands. \nEVENT MANAGEMENT \nTechnical production and logistics for events, as well as coordination between the different areas and spaces.",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
     "pictures": [{
-      "name":"Azotea del Círculo | Azotea Grupo",
+      "name":"Azotea del Círculo | Azotea Grupo, Madrid",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
     }, 
     {
-      "name":"Casa Cubeiro | Antonio Pernas Estudio",
+      "name":"El Cuartel del Mar | Azotea Grupo, Chiclana de la Fra. (Cádiz)",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpg" 
     }, 
     {
-      "name":"Azotea del Círculo | Azotea Grupo",
+      "name":"Justa Rufina | Azotea Grupo, Sevilla",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
     },
     {
-      "name":"Azotea del Círculo | Azotea Grupo",
+      "name":"Picalagartos Sky Bar | Azotea Grupo, Madrid",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
     }
     ],
@@ -144,18 +144,26 @@
     "id": 209, 
     "company": "A vida Group & La nena Home",
     "job":"Project Manager & Brand Architect",
-    "desc": "Architect",
+    "desc": "Project Manager for the different sub-brands of the group, managing commercial relationships and B2B opportunities with clients such as: Massimo Dutti, Bimba y Lola, Zara, etc.\nCoordination and implementation of storage solutions, agile and collaborative methodologies (Weeklies, managing KPIs, Kanban, backlog prioritisation). \nCreation of the first database of clients, by categories, for sending newsletters and communications.\nParticipated in the expansion and brand strategy of La Nena Home. Developed store concepts and designs. Worked with franchisees.",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
     "pictures": [{
-      "name":"Azotea del Círculo | Azotea Grupo",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+      "name":"La nena Home & La nena Coffee | A vida Group, Dubai",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-dxb.jpeg" 
     }, 
   {
-      "name":"Azotea del Círculo | Azotea Grupo",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/av-lg.png" 
+      "name":"La nena Home, Fuori Salone 2022| A vida Group, Milán",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-fs-22.jpeg" 
     }, {
-      "name":"XXXXXX",
+      "name":"La nena Home | A vida Group Madrid",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-mad.jpeg" 
+    }, 
+    {
+      "name":"Can Chan Chán Restaurant | A vida Group Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/av-ccc.jpeg" 
+    },
+     {
+      "name":"Can Chan Chán Restaurant | A vida Group Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/av-ccc2.jpg" 
     }
   ],
     "logo": "", 
