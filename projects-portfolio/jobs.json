@@ -4,7 +4,11 @@
     "company": "Correos SA",
     "job":"Summer job",
     "desc": "Temporary jobs. Customer service and delivery work, during the summers of 2001 to 2007 and 2012 (April to June)",
-    "logo": "", 
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }],"logo": "", 
     "year": 2001
   },
   {
@@ -13,7 +17,10 @@
     "job":"Intern",
     "desc": "Scholarships: \n-Collaboration with the Chair of History of Architecture in research tasks & \n-Management and assessment of model-making workshop.",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
-    "logo": "", 
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }],"logo": "", 
     "year": 2007
   },
   {
