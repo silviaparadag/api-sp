@@ -4,10 +4,10 @@
     "company": "Correos SA",
     "job":"Summer job",
     "desc": "Temporary jobs. Customer service and delivery work, during the summers of 2001 to 2007 and 2012 (April to June)",
-    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
+    "cover": "",
     "pictures": [{
-      "name":"Azotea del Círculo | Azotea Grupo",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+      "name":"",
+      "img":"" 
     }],"logo": "", 
     "year": 2001
   },
