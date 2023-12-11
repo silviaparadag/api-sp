@@ -1,6 +1,7 @@
-[
+{
+  "education": [
   {
-    "id": 301,
+    "id": 3001,
     "name": "Architect",
     "institution": "University of A Coruña",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
@@ -8,7 +9,7 @@
     "year": 2008
   },
   {
-    "id": 302,
+    "id": 3002,
     "name": "Master in Restoration",
     "institution": "University of A Coruña",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
@@ -16,15 +17,17 @@
     "year": 2010
   },
   {
-    "id": 303,
+    "id": 3003,
     "name": "Web Developer",
     "institution": "Adalab",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
     "logo": "", 
     "year": 2023
-  },
+  }
+],
+"certifications": [
   {
-    "id": 304,
+    "id": 3101,
     "name": "Scrum Master & Product Owner",
     "institution": "Scrum Manager (PUE)",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
@@ -32,11 +35,52 @@
     "year": 2023
   },
   {
-    "id": 305,
+    "id": 3102,
     "name": "Product Manager",
     "institution": "Thiga",
     "logo": "", 
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline.ap-cc.jpg",
     "year": 2024
   }
+],
+"tools": [
+  {
+    "id": 3201,
+    "type": "Agile",
+    "tools": [
+      "Scrum",
+      "Miro",
+      "Slack",
+      "Notion",
+      "Office 365",
+      "Kanban"
+    ]
+  },
+  {
+    "id": 3202,
+    "type": "Frontend & Backend",
+    "tools": [
+      "HTML5",
+      "CSS/SCSS",
+      "JavaScript",
+      "React JS",
+      "NodeJS",
+      "Express",
+      "SQL",
+      "MongoDB"
+    ]
+  },
+   {
+    "id": 3203,
+    "type": "Design & Architecture",
+    "tools": [
+      "Figma",
+      "Adobe Creative",
+      "Autocad",
+      "Revit",
+      "SketchUp",
+      "SIG"
+    ]
+  }
 ]
+}
