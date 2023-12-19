@@ -111,11 +111,11 @@
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
     "pictures": [{
       "name":"Apartment V86| RTA Grupo, Madrid",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/rta-hl.jpeg" 
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/rta-v86-1.jpeg" 
     },
     {
       "name":"'El Huerto de Lucas' organic market | RTA Grupo, Madrid",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/rta-v86-1.jpeg" 
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/rta-hl.jpeg" 
     }],
     "logo": "", 
     "year": 2012,
