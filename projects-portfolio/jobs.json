@@ -115,7 +115,7 @@
     },
     {
       "name":"'El Huerto de Lucas' organic market | RTA Grupo, Madrid",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg" 
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-v86-1.jpeg" 
     }],
     "logo": "", 
     "year": 2012,
@@ -177,17 +177,17 @@
     "job":"Project Manager & Brand Architect",
     "desc": "- Project Manager for the different sub-brands of the group, managing stakeholders' relationships and B2B opportunities.\n- Coordination and implementation of agile and collaborative methodologies. \n- Creation of the first database of clients.\n- Participated in expansion and brand strategy of La Nena Home.\n- Developed store concepts and designs.",
     "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
-    "pictures": [{
+    "pictures": [ {
+      "name":"La nena Home | A vida Group, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-mad.jpeg" 
+    }, {
       "name":"La nena Home & La nena Coffee | A vida Group, Dubai",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-dxb.jpeg" 
     }, 
   {
       "name":"La nena Home, Fuori Salone 2022| A vida Group, Milán",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-fs-22.jpeg" 
-    }, {
-      "name":"La nena Home | A vida Group, Madrid",
-      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-mad.jpeg" 
-    }, 
+    },
     {
       "name":"Can Chan Chán Restaurant | A vida Group, Madrid",
       "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/av-ccc.jpeg" 
