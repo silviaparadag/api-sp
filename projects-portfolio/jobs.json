@@ -1,0 +1,204 @@
+[
+  {
+    "id": 201, 
+    "company": "Correos SA",
+    "job":"Summer jobs",
+    "desc": "Temporary jobs. Customer service and delivery work, during the summers of 2001 to 2007 and 2012 (April to June)",
+    "cover": "",
+    "pictures": [{
+      "name":"",
+      "img":"" 
+    }],"logo": "", 
+    "year": 2001,
+    "period": "2001\n  -\n2007"
+  },
+  {
+    "id": 202, 
+    "company": "University of A Coruña",
+    "job":"Intern",
+    "desc": "Scholarships: \n- 2007-2008: Collaboration with the Chair of History of Architecture in research and digitalitation tasks\n- 2007: Management and assessment of model-making workshop.",
+    "cover": "",
+    "pictures": [{
+      "name":"",
+      "img":"" 
+    }],"logo": "", 
+    "year": 2007,
+    "period": "2007\n  -\n2008"
+  },
+  {
+    "id": 203, 
+    "company": "Freelance",
+    "job":"Architect",
+    "desc": "2008-2012: \n- Single-family housing projects, refurbishments projects and technical reports. \n- Participation in architectural competitions:\n'Auditorio Centro das Artes de Verín' Ourense (2010) \nSubsidized housing in Villaverde District, Madrid. EMVS (2009) \nNew Courthouse Building in Ourense (2009) \nII Competition of university initiatives 'Por unha mobilidade segura' (2008). 3rd prize.",
+    "cover": "",
+    "pictures": [{
+      "name":"Casa das Artes | Verín",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/fr-av.jpeg" 
+    }, 
+    {
+      "name":"Subsidized housing building in Villaverde District | Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/fr-vv.png" 
+    },
+    {
+      "name":"Subsidized housing building in Villaverde District | Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/fr-vv2.png" 
+    },
+     {
+      "name":"New Courthouse Building | Ourense",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/fr-nx.png" 
+    },
+    {
+      "name":"New Courthouse Building | Ourense",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/fr-nx2.png" 
+    }
+    ],
+    "logo": "", 
+    "year": 2008,
+    "period": "2008\n  -\n2012"
+  },
+  {
+    "id": 204, 
+    "company": "Kennedy Fitzgerald & Assoc",
+    "job":"Architect",
+    "desc": "Basic design projects for single-family homes and an execution project for a school building",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/kfani-sc2.png",
+    "pictures": [{
+      "name":"Santa Cecilias's College | KFANI, Derry (Northern Ireland, UK)",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/kfani-sc2.png" 
+    }],
+    "logo": "", 
+    "year": 2009,
+    "period": "2009"
+  },
+  {
+    "id": 205, 
+    "company": "Pernas Varela Arquitectos",
+    "job":"Architect",
+    "desc": "Refurbishment projects, interior design and basic projects. \nJuana de Vega Architecture Award 2011: 'Bergondo single-family house'",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
+    "pictures": [{
+      "name":"Bergondo single-family house | Pernas Varela Arquitectos, Bergondo (A Coruña)",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-cc.jpg" 
+    },
+    {
+      "name":"Los Rosales Church Urban Development | Pernas Varela Arquitectos, A Coruña",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ap-ir.png" 
+    }],
+    "logo": "", 
+    "year": 2009,
+    "period": "2009"
+  },
+  {
+    "id": 206, 
+    "company": "Xunta de Galicia",
+    "job":"Project Director",
+    "desc": "- Restoration of a rural tourism house and improvement of natural areas (leisure areas, riverbanks). \n- Management and coordination of Masonry, Stonework and Degraded areas workshops. \n- Managed a team of 30 unemployed people at risk of social exclusion",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/xg-ob.jpg",
+    "pictures": [{
+      "name":"Rehabilitation of a rural tourism house | Concello de Bande, Bande (Ourense)",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/xg-ob.jpg" 
+    }
+    ],
+    "logo": "", 
+    "year": 2009,
+    "period": "2009\n  -\n2010"
+  },
+  {
+    "id": 207, 
+    "company": "RTA Grupo",
+    "job":"Architect & Team Leader",
+    "desc": "- Integral projects of interior refurbishment in high standing housing and retail. \n- Proposals, execution projects, feasibility studies and collaborated with outsourced designers. CCE up to €0.7m.\n- Project management: budgets and measurements. \n- Strong focus on the relationship with stakeholders. \n- Reports, due diligences and technical evaluations.",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
+    "pictures": [{
+      "name":"Apartment V86| RTA Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/rta-v86-1.jpeg" 
+    },
+    {
+      "name":"'El Huerto de Lucas' organic market | RTA Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/rta-hl.jpeg" 
+    }],
+    "logo": "", 
+    "year": 2012,
+    "period": "2012\n  -\n2016"
+  },
+  {
+    "id": 208, 
+    "company": "Azotea Grupo",
+    "job":"Deputy to the CEO",
+    "desc": "BUSINESS DEVELOPMENT & EXPANSION \n- Developed new business opportunities. \n- Participation in the group's strategic decision-making. \n- Leading the digitalization. \n- Participate in stakeholders relations. \nARCHITECTURE & ASSET MANAGEMENT \n- Project Managerfor the company's construction projects. \n- Manage interior design and spaces harmonization. \n- Asset & Facility management.\n- Development of the corporate image. \nEVENT MANAGEMENT \n- Technical production and logistics for events.",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/ap-cc.jpg",
+    "pictures": [{
+      "name":"Azotea del Círculo | Azotea Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-ac.jpeg" 
+    }, 
+    {
+      "name":"El Cuartel del Mar | Azotea Grupo, Chiclana de la Fra. (Cádiz)",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-cm.jpeg" 
+    }, 
+     {
+      "name":"El Cuartel del Mar | Azotea Grupo, Chiclana de la Fra. (Cádiz)",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-cm2.jpeg" 
+    }, 
+    {
+      "name":"Justa Rufina | Azotea Grupo, Sevilla",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-jr.jpeg" 
+    }, {
+      "name":"Justa Rufina | Azotea Grupo, Sevilla",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-jr2.jpeg" 
+    },
+     {
+      "name":"Sal Verde Arena Bar| Azotea Grupo, Alcaidesa (Cádiz)",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-svab.jpeg" 
+    },
+    {
+      "name":"Picalagartos Sky Bar | Azotea Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-pl.jpeg" 
+    }, 
+    {
+      "name":"NuBel | Azotea Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-nb.jpeg" 
+    },
+    {
+      "name":"Arco 2020 | Azotea Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-arco-20.jpeg" 
+    },
+    {
+      "name":"Arco 2019 | Azotea Grupo, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ag-arco-19.jpeg" 
+    }
+    ],
+    "logo": "", 
+    "year": 2016,
+    "period": "2016\n-  \n2021"
+  },
+   {
+    "id": 209, 
+    "company": "A vida Group & La nena Home",
+    "job":"Project Manager & Brand Architect",
+    "desc": "- Project Manager for the different sub-brands of the group, managing stakeholders' relationships and B2B opportunities.\n- Coordination and implementation of agile and collaborative methodologies. \n- Creation of the first database of clients.\n- Participated in expansion and brand strategy of La Nena Home.\n- Developed store concepts and designs.",
+    "cover": "//silviaparadag.github.io/api-sp/projects-portfolio/images-timeline/rta-hl.jpg",
+    "pictures": [ {
+      "name":"La nena Home | A vida Group, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-mad.jpeg" 
+    }, {
+      "name":"La nena Home & La nena Coffee | A vida Group, Dubai",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-dxb.jpeg" 
+    }, 
+  {
+      "name":"La nena Home, Fuori Salone 2022| A vida Group, Milán",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/ln-fs-22.jpeg" 
+    },
+    {
+      "name":"Can Chan Chán Restaurant | A vida Group, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/av-ccc.jpeg" 
+    },
+     {
+      "name":"Can Chan Chán Restaurant | A vida Group, Madrid",
+      "img":"//silviaparadag.github.io/api-sp/projects-portfolio/past-projects/av-ccc2.jpg" 
+    }
+  ],
+    "logo": "", 
+    "year": 2022,
+    "period": "2022\n-  \n2023"
+  }
+]
